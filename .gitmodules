@@ -1,4 +1,4 @@
 [submodule "pointnet2_lib "]
 	path = pointnet2_lib 
-	url = https://github.com/kannwism/Pointnet2.PyTorch.git
+	url = https://github.com/lty2226262/pointnet2_lib_compatible.git
     ignore=dirty
